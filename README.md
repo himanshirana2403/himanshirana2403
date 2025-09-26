@@ -39,6 +39,30 @@
 
 ---
 
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshirana2403&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🔥 Streak Stats:
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=himanshirana2403&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📈 Most Used Languages:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshirana2403&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ### 🎨 Fun Fact
 
 I love to **sketch** and share my artwork on Instagram.  
